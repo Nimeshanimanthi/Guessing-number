@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=Archivo+Black&family=Bigshot+One&family=Londrina+Sketch&family=Playfair+Display:wght@400..900&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=Archivo+Black&family=Bigshot+One&family=Londrina+Sketch&family=Playfair+Display:wght@400..900&family=Rubik+Wet+Paint&display=swap');
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    background-image: ;
+}
+
+.message {
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+.alert {
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 10px;
+    width: 200px;
+    text-align: center;
+}
+
+.alert-success {
+    background-color: green;
+}
+
+.alert-danger {
+    background-color: red;
+}
+h1{ font-family: Abril Fatface
+    ;
+    background-color: lightskyblue;
+    text-align: center;
+    color: black;
+}
+h2{ font-family:Playwrite England SemiJoined ;
+    background-color:lightskyblue;
+    text-align: center;
+    color: black;
+}
+h3{ 
+    background-color:lightskyblue;
+    text-align: center;
+    color: black;
+}
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+
+    
+    background-image: url('image/pexels-yurika-4151484.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-position: center; 
+
+}
